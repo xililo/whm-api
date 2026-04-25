@@ -1,0 +1,35 @@
+{
+    "name": "xililo/whm-api",
+    "description": "A tidy PHP wrapper for the cPanel WHM API 1.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "whm",
+        "cpanel",
+        "api",
+        "hosting",
+        "reseller"
+    ],
+    "authors": [
+        {
+            "name": "xililo"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Xililo\\WhmApi\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Xililo\\WhmApi\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
