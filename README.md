@@ -1,9 +1,9 @@
 ﻿# WHM API
 
-[![Packagist Version](https://img.shields.io/packagist/v/xililo/whm-api?style=flat-square)](https://packagist.org/packages/xililo/whm-api)
-[![Packagist Downloads](https://img.shields.io/packagist/dt/xililo/whm-api?style=flat-square)](https://packagist.org/packages/xililo/whm-api)
-[![PHP Version](https://img.shields.io/packagist/php-v/xililo/whm-api?style=flat-square)](https://packagist.org/packages/xililo/whm-api)
-[![License](https://img.shields.io/packagist/l/xililo/whm-api?style=flat-square)](https://packagist.org/packages/xililo/whm-api)
+[![Packagist Version](https://img.shields.io/packagist/v/xililo/whm-api)](https://packagist.org/packages/xililo/whm-api)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/xililo/whm-api)](https://packagist.org/packages/xililo/whm-api)
+[![PHP Version](https://img.shields.io/packagist/php-v/xililo/whm-api)](https://packagist.org/packages/xililo/whm-api)
+[![License](https://img.shields.io/packagist/l/xililo/whm-api)](https://packagist.org/packages/xililo/whm-api)
 
 A tidy PHP wrapper for the cPanel WHM API 1.
 
